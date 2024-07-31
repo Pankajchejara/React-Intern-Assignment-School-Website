@@ -1,6 +1,9 @@
 School Website
 This is a responsive website for "Springdale Public School," featuring sections on academics, admissions, faculty, students, gallery, and contact information. Built with React and Tailwind CSS, the site offers a modern, user-friendly interface.
 
+#live demo
+https://springdalepublicpankajwebsite.netlify.app/
+
 Features
 Home Page with carousel and quick links
 Detailed sections for About Us, Academics, Admissions, Faculty, and Students
